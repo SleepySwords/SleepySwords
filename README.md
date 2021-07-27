@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://img.shields.io/badge/uwu%20nuzzles-%20pounces%20on%20you-red) ![](https://img.shields.io/badge/being-silly%20and%20sleepy-blueviolet)
+
+### Hi there
+- I have no idea what I'm doing
+- I am currently working on a [`rust email cli`](https://github.com/Fishy-Fishes/too_many_emails)
+- My [`dotfiles`](https://github.com/SleepySwords/dotfiles)
+- Cool site to create [shields](https://shields.io/category/social) like above
+- Uses `Apple Reminders` + `Calender` for organisation and I want to change the default app switcher.
 
 <!--
-**SleepySwords/SleepySwords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Applications I'm going to uninstall
+- Google Earth pro
+- Badlion client
+- Ghidra
 -->
