@@ -5,8 +5,7 @@
 - I am currently working on a [`rust email cli`](https://github.com/Fishy-Fishes/too_many_emails)
 - My [`dotfiles`](https://github.com/SleepySwords/dotfiles)
 - Cool site to create [shields](https://shields.io/category/social) like above
-- Uses `Apple Reminders` + `Calender` for organisation and I want to change the default app switcher for mac os.
-
+- Uses `Apple Reminders` + `Calender` for organisation and [`alt-tab`](https://alt-tab-macos.netlify.app/) as a different for the default apple window switched
 <!--
 Applications I'm going to uninstall
 - Google Earth pro
