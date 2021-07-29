@@ -4,8 +4,8 @@
 - I have no idea what I'm doing
 - I am currently working on a [`rust email cli`](https://github.com/Fishy-Fishes/too_many_emails)
 - My [`dotfiles`](https://github.com/SleepySwords/dotfiles)
-- Cool site to create [shields](https://shields.io/category/social) like above
-- Uses `Apple Reminders` + `Calender` for organisation and [`alt-tab`](https://alt-tab-macos.netlify.app/) as a different for the default apple window switched
+- Cool site to create [badges](https://shields.io/category/social) like above
+- Uses `Apple Reminders` + `Calender` for organisation and [`alt-tab`](https://alt-tab-macos.netlify.app/) for replacing the default apple window switcher.
 <!--
 Applications I'm going to uninstall
 - Google Earth pro
