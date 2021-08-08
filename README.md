@@ -5,7 +5,7 @@
 - I am currently working on a [`rust email cli`](https://github.com/Fishy-Fishes/too_many_emails)
 - My [`dotfiles`](https://github.com/SleepySwords/dotfiles)
 - Cool site to create [badges](https://shields.io/category/social) like above
-- Uses `Microsoft To Do` + `Calender` + `Notion` + `(Yabai + Spacebar + Stackline)` + [`alt-tab`](https://alt-tab-macos.netlify.app/ on MacOS.
+- Uses [`Microsoft To Do`](https://todo.microsoft.com/tasks/) + `Calender` + `Notion` + ([`Yabai`](https://github.com/koekeishiya/yabai/) + [`Spacebar`](https://github.com/cmacrae/spacebar/) + [`Stackline`](https://github.com/AdamWagner/stackline)) + [`alt-tab`](https://alt-tab-macos.netlify.app/) on MacOS.
 <!--
 Applications I'm going to uninstall
 - Google Earth pro
