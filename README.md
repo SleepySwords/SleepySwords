@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/uwu%20nuzzles-%20pounces%20on%20you-red) ![](https://img.shields.io/badge/yep-yes-blueviolet)
+![](https://img.shields.io/badge/status-sleepy-ff69b4)
 
 ### Hi there
 - I have no idea what I'm doing
